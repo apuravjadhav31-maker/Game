@@ -1,0 +1,6 @@
+{
+  "name": "Supermart Simulator",
+  "description": "Supermarket Simulator game inspired by Techno Gamerz: order wholesale inventory, stock shelves, price products, run the cash register with cash change and credit cards, hire employees, and expand your supermarket empire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

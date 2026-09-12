@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Store Awning Roof -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M26,30 L82,30 L78,40 L30,40 Z" />
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M34,30 L46,30 L44,40 L32,40 Z" />
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M62,30 L74,30 L72,40 L60,40 Z" />
+    
+    <!-- Grocery Basket/Cart -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M32,48 L76,48 L71,70 C70.5,72 68.5,74 66,74 L42,74 C39.5,74 37.5,72 37,70 Z" />
+    <path
+        android:fillColor="#059669"
+        android:pathData="M35,52 L73,52 L69,68 L39,68 Z" />
+
+    <!-- Grocery Items sticking out -->
+    <!-- Bread / baguette -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M40,38 L48,34 C50,33 52,35 51,37 L48,48 L42,48 Z" />
+    <!-- Soda can / bottle -->
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M52,36 L58,36 L58,48 L52,48 Z" />
+    <!-- Apple / Fruit -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M60,43 A4,4 0 1,1 68,43 A4,4 0 1,1 60,43" />
+
+    <!-- Cart handle -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M28,45 L35,48 L33,52 L26,49 Z" />
+
+    <!-- Cart Wheels -->
+    <path
+        android:fillColor="#F1F5F9"
+        android:pathData="M43,79 A4,4 0 1,1 43,71 A4,4 0 1,1 43,79" />
+    <path
+        android:fillColor="#334155"
+        android:pathData="M43,77 A2,2 0 1,1 43,73 A2,2 0 1,1 43,77" />
+    <path
+        android:fillColor="#F1F5F9"
+        android:pathData="M65,79 A4,4 0 1,1 65,71 A4,4 0 1,1 65,79" />
+    <path
+        android:fillColor="#334155"
+        android:pathData="M65,77 A2,2 0 1,1 65,73 A2,2 0 1,1 65,77" />
+
+    <!-- Golden Coin / Star (Simulator Success) -->
+    <path
+        android:fillColor="#FCD34D"
+        android:pathData="M78,32 A6,6 0 1,1 78,20 A6,6 0 1,1 78,32" />
+    <path
+        android:fillColor="#B45309"
+        android:pathData="M76,23 L80,23 L80,29 L76,29 Z" />
+</vector>
